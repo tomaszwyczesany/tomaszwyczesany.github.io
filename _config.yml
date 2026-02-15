@@ -23,7 +23,7 @@ favicon: favicon.png
 navbar-links:
   O mnie: "O mnie"
   Zasoby:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - test: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Linki: 
     - "https://tomaszwyczesany.github.io"
