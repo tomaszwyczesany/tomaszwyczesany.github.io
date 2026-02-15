@@ -2,6 +2,8 @@
 layout: post
 title: "Cisco CyberCup – międzynarodowy konkurs dla Akademii Cisco"
 cover-img: /assets/img/cisco-konkurs-lo-niepolomice.png
+thumbnail-img: /assets/img/cisco-konkurs-lo-niepolomice.png
+share-img: /assets/img/cisco-konkurs-lo-niepolomice.png
 date: 2026-02-15
 categories: [konkurs, cisco, cyberbezpieczeństwo]
 tags: [Cisco, CyberCup, RealMadrid, IT, kursy, edukacja]
