@@ -45,16 +45,16 @@ Jeśli Akademia zdobędzie odpowiednią liczbę punktów i wygra rywalizację:
 ## 📚 Darmowe kursy objęte konkursem
 
 ### 🔐 [Wprowadzenie do cyberbezpieczeństwa](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=pl-PL&instance_id=739f9aa7-7977-45ff-9f4c-e470e037f259)
-        https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=pl-PL&instance_id=739f9aa7-7977-45ff-9f4c-e470e037f259
+https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=pl-PL&instance_id=739f9aa7-7977-45ff-9f4c-e470e037f259
 
 ### 🤖 [Wprowadzenie do nowoczesnej sztucznej inteligencji](https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=pl-PL&instance_id=580b12d3-ed99-4aaa-93ec-c19e50eaacc1)
-        https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=pl-PL&instance_id=580b12d3-ed99-4aaa-93ec-c19e50eaacc1
+https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=pl-PL&instance_id=580b12d3-ed99-4aaa-93ec-c19e50eaacc1
 
 ### 🌐 [Podstawy sieci](https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6b2650ca-4f5d-496f-bebf-95282c816ab1)
-        https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6b2650ca-4f5d-496f-bebf-95282c816ab1
+https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6b2650ca-4f5d-496f-bebf-95282c816ab1
 
 ### 🏢 [Sieci firmowe](https://www.netacad.com/courses/industrial-networking-essentials?courseLang=en-US&instance_id=268ecec6-46d1-433d-8cff-907bb31638ae)
-        https://www.netacad.com/courses/industrial-networking-essentials?courseLang=en-US&instance_id=268ecec6-46d1-433d-8cff-907bb31638ae
+https://www.netacad.com/courses/industrial-networking-essentials?courseLang=en-US&instance_id=268ecec6-46d1-433d-8cff-907bb31638ae
 ---
 
 ### ⏰ Termin ukończenia kursów
