@@ -26,8 +26,8 @@ navbar-links:
     - test: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Linki: 
-    - "https://tomaszwyczesany.github.io"
-    - "https://www.howtoforge.com/"
+    - strona: "https://tomaszwyczesany.github.io"
+    - howtoforge: "https://www.howtoforge.com/"
 
 ################
 # --- Logo --- #
@@ -55,7 +55,7 @@ round-avatar: true
 social-network-links:
   email: "tomaszwyczesany@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  facebook: tomaszwyczesany
   github: tomaszwyczesany
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -154,8 +154,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
