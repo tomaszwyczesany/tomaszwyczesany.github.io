@@ -28,7 +28,8 @@ navbar-links:
   Linki: 
     - strona: "https://tomaszwyczesany.github.io"
     - howtoforge: "https://www.howtoforge.com/"
-    - zapłać: "https://buy.stripe.com/14A5kC4OHgDAcx2cLib3q00"
+    - zapłać 100 zł: "https://buy.stripe.com/14A5kC4OHgDAcx2cLib3q00"
+    - zapłać ile chcesz: "https://buy.stripe.com/cNi00ibd5fzw2Ws6mUb3q01"
 
 ################
 # --- Logo --- #
