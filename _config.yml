@@ -22,6 +22,7 @@ favicon: favicon.png
 
 navbar-links:
   O mnie: "O mnie"
+  About Me: "aboutme"
   Zasoby:
     - test: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
