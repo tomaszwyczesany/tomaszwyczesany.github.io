@@ -41,7 +41,7 @@ i chcesz wesprzeć mnie drobną darowizną – możesz zrobić to tutaj.
 
 ### 💳 Darowizna online
 
-<div style="margin-top:20px;margin-bottom:20px;">
+<div style="margin-top:50px;margin-bottom:50px;">
 
 <script async src="https://js.stripe.com/v3/buy-button.js"></script>
 
