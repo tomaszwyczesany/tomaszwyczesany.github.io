@@ -34,3 +34,28 @@ Poza szkołą zajmuję się także **elektroniką i naprawą sprzętu AGD**, co 
 - 🌐 technologie webowe i automatyzacja
 
 Jeśli chcesz porozmawiać o technologii, edukacji albo ciekawych projektach – jesteś w dobrym miejscu.
+## ☕ Postaw mi kawę
+
+Jeśli ta strona lub moja praca okazały się dla Ciebie pomocne  
+i chcesz wesprzeć mnie drobną darowizną – możesz zrobić to tutaj.
+
+### 💳 Darowizna online
+
+<div style="margin-top:20px;margin-bottom:20px;">
+
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1T6tXCAAvPCXdw5EG5GkvYIS"
+  publishable-key="pk_live_51JwTipAAvPCXdw5E3f5PoAZ5u8dny7Cz0IEuoRKdQLQQmYUoc6A69RBt4Izy3odx8E3H2OzSKJbMvEikYkfw6kgb00b2KgJCz6">
+</stripe-buy-button>
+
+</div>
+
+### 📱 Skanuj kod QR
+
+Możesz również zeskanować kod QR telefonem.
+
+![QR darowizna](/assets/img/darowizna-qr.png)
+
+_Dziękuję za każde wsparcie!_
