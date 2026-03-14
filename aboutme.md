@@ -1,16 +1,36 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: O mnie
+subtitle: Informatyk, nauczyciel i człowiek, który lubi rozumieć jak rzeczy działają
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Nazywam się **Tomasz Wyczesany**.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Na co dzień łączę kilka światów: edukację, informatykę oraz technikę.  
+Lubię uczyć, analizować problemy i budować rozwiązania – od kodu, przez systemy komputerowe, aż po sprzęt elektroniczny.
 
-What else do you need?
+- 👨‍🏫 **Nauczyciel informatyki** w technikum i liceum  
+- 💻 Pasjonat **systemów komputerowych i technologii open-source**  
+- 🔧 **Elektronik**, który lubi naprawiać sprzęt i rozumieć jak działa od środka  
+- 🧠 Zainteresowany **sztuczną inteligencją, analizą danych i cyberbezpieczeństwem**  
+- 🧰 Zwolennik praktycznej nauki: projektów, eksperymentów i rozwiązywania realnych problemów
 
-### My story
+### Moja historia
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Moja droga zawodowa to połączenie **techniki i edukacji**.  
+Pracując jako nauczyciel informatyki w szkole ponadpodstawowej staram się pokazywać uczniom, że informatyka to nie tylko teoria, ale przede wszystkim **narzędzie do tworzenia i rozwiązywania problemów**.
+
+Na zajęciach często pracujemy projektowo – od modelowania 3D, przez programowanie, aż po analizę systemów komputerowych.  
+Interesuje mnie wszystko, co pozwala **lepiej zrozumieć technologię**, zamiast tylko z niej korzystać.
+
+Poza szkołą zajmuję się także **elektroniką i naprawą sprzętu AGD**, co pozwala mi zachować kontakt z praktyczną stroną techniki. Lubię moment, kiedy coś przestaje działać… bo oznacza to zagadkę do rozwiązania.
+
+### Co mnie interesuje
+
+- 🧑‍💻 systemy Linux i administracja
+- 🤖 sztuczna inteligencja i uczenie maszynowe
+- 🔐 bezpieczeństwo informatyczne
+- 🖨️ druk 3D i projektowanie
+- 🌐 technologie webowe i automatyzacja
+
+Jeśli chcesz porozmawiać o technologii, edukacji albo ciekawych projektach – jesteś w dobrym miejscu.
