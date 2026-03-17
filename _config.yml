@@ -30,6 +30,14 @@ navbar-links:
     - howtoforge: "https://www.howtoforge.com/"
     - zapłać 100 zł: "https://buy.stripe.com/14A5kC4OHgDAcx2cLib3q00"
     - zapłać ile chcesz: "https://buy.stripe.com/cNi00ibd5fzw2Ws6mUb3q01"
+  Klasy:
+    - 1Ti:
+      - UTK: "UTK"
+      - SO:
+      - EUTK:
+    - 2Ti:
+    - 3Ti:
+    
 
 ################
 # --- Logo --- #
