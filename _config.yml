@@ -31,12 +31,12 @@ navbar-links:
     - zapłać 100 zł: "https://buy.stripe.com/14A5kC4OHgDAcx2cLib3q00"
     - zapłać ile chcesz: "https://buy.stripe.com/cNi00ibd5fzw2Ws6mUb3q01"
   Klasy:
-    - 1Ti:
-      - UTK: "UTK"
-      - SO:
-      - EUTK:
-    - 2Ti:
-    - 3Ti:
+    - 1Ti: "1ti"
+      - UTK: "utk"
+      - SO: "so"
+      - EUTK: "eutk"
+    - 2Ti: "2ti"
+    - 3Ti: "3ti"
     
 
 ################
@@ -211,7 +211,7 @@ footer-img: "/assets/img/bgimage.png"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "https://tomaszwyczesany.disqus.com/"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
