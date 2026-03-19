@@ -32,9 +32,9 @@ navbar-links:
     - zapłać ile chcesz: "https://buy.stripe.com/cNi00ibd5fzw2Ws6mUb3q01"
   Klasy:
     - 1Ti: "1ti"
-      - UTK: "utk"
-      - SO: "so"
-      - EUTK: "eutk"
+    - UTK: "utk"
+    - SO: "so"
+    - EUTK: "eutk"
     - 2Ti: "2ti"
     - 3Ti: "3ti"
     
