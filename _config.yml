@@ -211,6 +211,7 @@ footer-img: "/assets/img/bgimage.png"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
+comments: true
 disqus:
   shortname: "tomaszwyczesany"
 #disqus: "https://tomaszwyczesany.disqus.com/"
