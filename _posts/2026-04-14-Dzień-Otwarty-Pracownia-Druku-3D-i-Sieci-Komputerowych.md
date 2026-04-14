@@ -4,6 +4,8 @@ title: "Dzień Otwarty Pracownia Druku 3D i Sieci Komputerowych"
 date: 2026-04-23
 categories: [druk 3D, cisco, cyberbezpieczeństwo,hakowanie,sieci komputerowe]
 tags: [Cisco,IT, kursy, edukacja, dzień otwarty, hakowanie, sieci komputerowe]
+comments: true
+author: Tomasz Wyczesany
 ---
 
 
@@ -42,5 +44,6 @@ Zapraszamy uczniów oraz rodziców na wyjątkowe wydarzenie, podczas którego po
 
 ---
 
-**Zapraszam serdecznie! Tomasz Wyczesany**
+**Zapraszam serdecznie!**
+
 Zespół Szkół im. Ojca Świętego Jana Pawła 2 w Niepołomicach ul Plac Kazimierza Wielkiego 1
