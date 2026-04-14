@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dzień Otwarty – Pracownia Druku 3D i Sieci Komputerowych z Zespole Szkół im. Ojca Świętego Jana Pawłą 2 w Niepołomicach"
+title: "Dzień Otwarty – Pracownia Druku 3D i Sieci Komputerowych w Zespole Szkół im. Ojca Świętego Jana Pawła 2 w Niepołomicach"
 date: 2026-04-23
 categories: [druk 3D, cisco, cyberbezpieczeństwo,hakowanie,sieci komputerowe]
 tags: [Cisco,IT, kursy, edukacja, dzień otwarty, hakowanie, sieci komputerowe]
