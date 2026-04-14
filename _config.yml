@@ -31,7 +31,6 @@ navbar-links:
     - zapłać 100 zł: "https://buy.stripe.com/14A5kC4OHgDAcx2cLib3q00"
     - zapłać ile chcesz: "https://buy.stripe.com/cNi00ibd5fzw2Ws6mUb3q01"
   Klasy:
-    - 1Ti: "1ti"
     - UTK: "utk"
     - SO: "so"
     - EUTK: "eutk"
