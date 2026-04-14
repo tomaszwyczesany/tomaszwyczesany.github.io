@@ -38,4 +38,5 @@ Zapraszamy uczniów oraz rodziców na wyjątkowe wydarzenie, podczas którego po
 
 ---
 
-**Zapraszamy serdecznie! Tomasz Wyczesany**
+**Zapraszam serdecznie! Tomasz Wyczesany**
+Zespół Szkół im. Ojca Świętego Jana Pawłą 2 w Niepołomicach ul Plac Kazimierza Wielkiego 1
