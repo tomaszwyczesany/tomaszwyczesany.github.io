@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Dzień Otwarty – Pracownia Druku 3D i Sieci Komputerowych"
+subtitle: Excerpt from Soulshaping by Jeff Brown
+date: 2026-04-23
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [dzień otwarty,druk 3D,sieci komputerowe,cyberbezpieczeństwo,edukacja]
+author: Tomasz Wyczesany
+---
+
+# 🚀 Dzień Otwarty – Zobacz Informatykę w Praktyce!
+
+📅 **Data:** 23 kwietnia 2026 (czwartek)  
+🕐 **Godziny:** 13:00 – 18:00  
+📍 **Miejsce:** Pracownia nr 10 – Zespół Szkół im. Ojca Św. Jana Pawła II w Niepołomicach
+
+Zapraszamy uczniów i rodziców na wyjątkowe wydarzenie, które umożliwi Wam zobaczenie, jak wygląda nauka informatyki w praktyce!
+
+## 🔧 Co Zobaczysz?
+
+### 🖨️ Druk 3D w Akcji
+- **10 działających drukarek 3D** – poznaj fascynujący świat druku!
+- **Gotowe wydruki** – modele użytkowe, techniczne i edukacyjne.
+- **Proces projektowania i drukowania** – krok po kroku, od pomysłu do realizacji.
+
+### 🌐 Sieci Komputerowe
+- **Profesjonalny sprzęt sieciowy** – zobacz, jak działają nowoczesne technologie!
+- **Konfiguracja urządzeń** – routery i przełączniki w praktyce.
+- **Podstawy działania Internetu** „od środka” – zrozum, jak to wszystko funkcjonuje!
+
+### 🧠 Pokaz Specjalny – Hacking na Żywo (16:00)
+- **Demonstracja technik stosowanych przez hakerów** – co warto wiedzieć?
+- **Jak działają ataki i jak się przed nimi bronić** – praktyczne porady.
+- **Cyberbezpieczeństwo w praktyce** – kluczowe umiejętności w dzisiejszym świecie.
+
+## 🎯 Dlaczego Warto Przyjść?
+- **Zobaczysz realne umiejętności naszych uczniów** – przekonaj się, jak kształtujemy przyszłych specjalistów.
+- **Poznasz nowoczesne technologie** – dowiedz się, co oferujemy na kierunku informatyka.
+- **Zadaj pytania** – nasza kadra nauczycielska jest do Twojej dyspozycji!
+
+👉 **Nie przegap tej okazji!** Przyjdź, zobacz i przekonaj się, że informatyka to coś więcej niż teoria!
+
+---
+
+**Zapraszamy serdecznie!** Niech Twoje dziecko odkryje pasję do technologii!
