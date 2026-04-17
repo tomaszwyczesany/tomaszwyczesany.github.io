@@ -2,7 +2,7 @@
 layout: post
 title: "Dzień Otwarty – Pracownia Druku 3D i Sieci Komputerowych"
 subtitle: Excerpt from Soulshaping by Jeff Brown
-date: 2026-04-23
+date: 2026-04-17
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
