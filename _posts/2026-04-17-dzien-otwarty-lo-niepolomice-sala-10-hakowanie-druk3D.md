@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dzień Otwarty – Pracownia Druku 3D i Sieci Komputerowych"
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Pokaz hakowania i druku 3D
 date: 2026-04-17
 cover-img: /assets/img/szkola-zs-niepolomice-dzien-otwarty.png
 thumbnail-img: /assets/img/thumb-szkola-zs-niepolomice-dzien-otwarty.png
