@@ -3,9 +3,9 @@ layout: post
 title: "Dzień Otwarty – Pracownia Druku 3D i Sieci Komputerowych"
 subtitle: Excerpt from Soulshaping by Jeff Brown
 date: 2026-04-17
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/szkola-zs-niepolomice-dzien-otwarty.png
+thumbnail-img: /assets/img/thumb-szkola-zs-niepolomice-dzien-otwarty.png
+share-img: /assets/img/szkola-zs-niepolomice-dzien-otwarty.png
 tags: [dzień otwarty,druk 3D,sieci komputerowe,cyberbezpieczeństwo,edukacja]
 author: Tomasz Wyczesany
 ---
