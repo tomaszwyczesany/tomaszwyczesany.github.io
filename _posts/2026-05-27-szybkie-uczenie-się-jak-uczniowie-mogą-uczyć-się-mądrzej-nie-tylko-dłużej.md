@@ -2,8 +2,10 @@
 layout: post
 title: "Jak szybko się uczyć? Skuteczne techniki nauki dla uczniów"
 date: 2026-05-27
+cover-img: /assets/img/jak-sie-szybko-uczyc.png
+thumbnail-img: /assets/img/jak-sie-szybko-uczyc.png
+share-img: /assets/img/jak-sie-szybko-uczyc.png
 lang: pl
-image: /assets/img/jak-sie-szybko-uczyc.png
 description: "Poznaj skuteczne techniki szybkiego uczenia się. Sprawdzone metody nauki, koncentracji i zapamiętywania dla uczniów szkoły podstawowej i ponadpodstawowej."
 keywords:
   - szybkie uczenie się
