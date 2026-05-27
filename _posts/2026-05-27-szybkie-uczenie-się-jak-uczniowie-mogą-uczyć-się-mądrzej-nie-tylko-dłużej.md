@@ -250,3 +250,13 @@ Uczeń, który:
 osiąga lepsze wyniki przy mniejszym zmęczeniu.
 
 Najważniejsza jest jakość nauki, a nie liczba godzin spędzonych nad książkami.
+## FAQ
+
+### Jak szybko zapamiętać materiał?
+Najlepiej działa aktywne przypominanie i powtórki rozłożone w czasie.
+
+### Ile powinno trwać skuteczne uczenie się?
+Najlepiej 25–50 minut z krótką przerwą.
+
+### Czy ChatGPT pomaga w nauce?
+Tak, może tworzyć quizy, streszczenia i plany nauki.
