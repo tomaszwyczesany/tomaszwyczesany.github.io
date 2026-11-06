@@ -9,7 +9,7 @@ Nazywam się **Tomasz Wyczesany**.
 Na co dzień łączę kilka światów: edukację, informatykę oraz technikę.  
 Lubię uczyć, analizować problemy i budować rozwiązania – od kodu, przez systemy komputerowe, aż po sprzęt elektroniczny.
 
-- 👨‍🏫 **Nauczyciel informatyki** w technikum i w szkole podstawowej  
+- 👨‍🏫 **Nauczyciel informatyki** :  technikum i w szkole podstawowej  
 - 💻 Pasjonat **systemów komputerowych i technologii open-source**  
 - 🔧 **Elektronik**, który lubi naprawiać sprzęt i rozumieć jak działa od środka  
 - 🧠 Zainteresowany **sztuczną inteligencją, analizą danych i cyberbezpieczeństwem**  
